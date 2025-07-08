@@ -33,15 +33,14 @@ I am a passionate frontend developer learner, eager to build engaging and user-f
 <br/>  
 
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
+
 
 
 
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="" align="center" style="width: 100%" />
+<img src="" align="center" style="width: 100% " />
 </div>  
 
 
