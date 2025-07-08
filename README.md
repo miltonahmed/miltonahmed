@@ -38,7 +38,7 @@
 
 ### 🔥 My Tech Toolbox
 
-![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,react,redux,git,github,vscode,figma,bootstrap,tailwind)
+![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,react,redux,git,github,vscode,figma,bootstrap,tailwind,mui)
 
 ---
 
