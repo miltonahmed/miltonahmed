@@ -4,7 +4,7 @@
 <h1 align="center">Hi, I'm Milton Ahmed 👋</h1>
 
 <p align="center">
-  💻 Full-Stack Freelance Developer | 🚀 Remote since 2019 <br/>
+  💻 Full-Stack Freelance Developer | 🚀 Remote since 2024 <br/>
   🌍 Based in UAE | 🌱 Currently learning MERN Stack
 </p>
 
@@ -29,7 +29,7 @@
 
 ### 🧑‍💻 About Me
 
-- 👨‍💻 Full-time full-stack freelance developer since **2013**
+- 👨‍💻 Full-time full-stack freelance developer since **2021**
 - 💡 I enjoy turning ideas into reality with clean code and user-friendly design
 - 🌱 Currently learning and building with the **MERN Stack**
 - 🎯 Focused on writing maintainable code and scalable web applications
