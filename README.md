@@ -19,6 +19,11 @@
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
+<p align="center">
+  🧭 Portfolio Visitors:  
+  <br>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=miltonahmed08.portfolio" alt="Visitors badge" />
+</p>
 
 ---
 
