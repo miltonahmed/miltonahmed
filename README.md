@@ -4,7 +4,7 @@
 <h1 align="center">Hi, I'm Milton Ahmed 👋</h1>
 
 <p align="center">
-  💻 Full-Stack Freelance Developer | 🚀 Remote since 2024 <br/>
+  💻 Frontend Freelance Developer | 🚀 Remote since 2024 <br/>
   🌍 Based in UAE | 🌱 Currently learning MERN Stack
 </p>
 
